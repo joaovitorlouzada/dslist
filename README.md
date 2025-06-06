@@ -1,4 +1,4 @@
-<h1>Projeto DSList - Intesivão Java Spring</h1> 
+<h1>Projeto DSList - Intensivão Java Spring</h1> 
 
 Este projeto foi desenvolvido durante o intensivão Java Spring do Professor Nélio Alves. O DSList é uma aplicação backend desenvolvida com Java e Spring Boot, permitindo a listagem e ordenação de jogos.
 
